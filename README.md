@@ -3,7 +3,7 @@
 ## Running the Script:
 - Check if current directory is where you have downloaded the script file
 - On the basis of your python version installed, use one the command "python spotify_search_script.py" or "python3 spotify_search_script.py" to run the script
-- That's it. No follow the flow in the script.
+- That's it. Now follow the flow in the script.
 
 
 ## Assumptions
